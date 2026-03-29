@@ -2,7 +2,7 @@
 
 Este repositorio contiene el desarrollo de un modelo de Machine Learning diseñado para identificar transacciones fraudulentas en tiempo real, superando las limitaciones de los sistemas tradicionales basados en reglas.
 
- Resumen del Proyecto
+# Resumen del Proyecto
 El objetivo principal fue elevar el Recall (detección de fraude) desde un 23.52% inicial a un 97.96% final mediante el uso de un modelo Random Forest optimizado y técnicas de ingeniería de variables.
 
  Estructura del Repositorio

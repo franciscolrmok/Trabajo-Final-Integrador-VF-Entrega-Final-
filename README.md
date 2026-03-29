@@ -1,14 +1,10 @@
-El archivo README.md es la carta de presentación de tu repositorio. Debe ser claro y permitir que cualquier persona (o el profesor) ejecute tu código sin errores.
-
-Aquí tienes una estructura profesional basada en lo que ya hemos trabajado en tu informe:
-
-Sistema de Detección de Fraude en Pagos Digitales - UTN.BA
+Sistema de Detección de Fraude en Pagos Digitales
 Este repositorio contiene el desarrollo de un modelo de Machine Learning diseñado para identificar transacciones fraudulentas en tiempo real, superando las limitaciones de los sistemas tradicionales basados en reglas.
 
-📌 Resumen del Proyecto
+ Resumen del Proyecto
 El objetivo principal fue elevar el Recall (detección de fraude) desde un 23.52% inicial a un 97.96% final mediante el uso de un modelo Random Forest optimizado y técnicas de ingeniería de variables.
 
-📁 Estructura del Repositorio
+ Estructura del Repositorio
 
 data/: Directorio que debe contener el dataset original Digital_Payment_Fraud_Detection_Dataset.csv.
 
@@ -17,7 +13,6 @@ notebooks/: Jupyter Notebook con el análisis exploratorio (EDA), ingeniería de
 
 scripts/: Código Python para la ejecución del modelo y generación de métricas.
 
-README.md: Instrucciones de ejecución (este archivo).
 
  Instrucciones de Ejecución
 1. Requisitos Previos

@@ -20,6 +20,32 @@ Es necesario tener instalado Python 3.8 o superior. Se recomienda el uso de un e
 
 2. Instalación de Dependencias
 Instala las librerías necesarias ejecutando:
+Librerías Utilizadas
+
+Pandas: Para la carga del dataset y manipulación de estructuras de datos.
+
+
+NumPy: Para operaciones numéricas y manejo de vectores.
+
+Scikit-Learn (sklearn):
+
+
+RandomForestClassifier: Algoritmo principal de clasificación.
+
+
+StandardScaler: Escalado y normalización de variables numéricas.
+
+
+train_test_split: División del dataset en conjuntos de entrenamiento y prueba.
+
+
+metrics: Evaluación de Recall, Precision y F1-Score.
+
+
+Matplotlib: Generación del histograma de probabilidades e importancia de variables.
+
+
+Seaborn: Visualización avanzada de patrones conductuales y correlaciones.
 
 3. Ejecución del Modelo
 Descarga el dataset desde  y colócalo en la carpeta data/.
